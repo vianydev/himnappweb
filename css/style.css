@@ -281,6 +281,7 @@ button:focus,
   padding: 17px 38px;
   border-radius: 3px;
   outline: none;
+  background: rgb(13 110 253);
 }
 .btn-main-md:focus {
   color: #fff;
@@ -975,7 +976,7 @@ button:focus,
   width: 200%;
   height: 200%;
   border-radius: 50%;
-  background-image: linear-gradient(45deg, #384E72 0%, #CC3945 20%, #2F4858 50%);
+  background-image: linear-gradient(45deg, #1862d9 0%, #CC3945 20%, #2F4858 50%);
 }
 
 .pull-top {
